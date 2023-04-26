@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hey! I'm Jason!
+
+**Glad to see you here!** :star_struck:
+
+I like to learn and build things 🏘️!<br> 
+Probably why I transitioned from architecture into software development. Buildings don't change fast enough...
+
+Curretly at [Turing](https://turing.edu/)'s Front End Engineering program to help me specialize in JavaScript, CSS, and HTML so that I can create applications that will enrich the lives of people who use them.
+
+#### Let's connect! 🤝
+<a href="https://www.linkedin.com/in/jasonalberto/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>
 
 <!--
 **jalbe0076/jalbe0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
