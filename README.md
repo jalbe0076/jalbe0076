@@ -1,22 +1,20 @@
-### 👋 Hey there! I'm Jason, and I'm thrilled to have you here! 
+## 👋 Hey there! I'm Jason, and I'm thrilled to have you here! 
 
-I have a passion for continuous learning and constructing innovative solutions. That's likely why I made the transition from architecture to software development—buildings just couldn't keep up with my drive for change!
+🏗️ From architecture to code, I've always had a passion for creating things that make a difference. My journey began with bricks and mortar, but my pursuit of innovation led me to the world of software development.
 
-Currently, I'm actively engaged in [Turing](https://turing.edu/)'s Front End Engineering program, honing my skills in JavaScript, CSS, and HTML. My goal is to leverage this expertise to craft impactful applications that enhance the lives of their users.
+💻 Currently specializing in Front End Engineering. My coding journey is documented right here on GitHub, where you can explore the projects that showcase my growth and skills.
 
-Feel free to explore my GitHub profile and witness my journey of growth as I embark on exciting projects and collaborate with fellow developers. Together, let's build remarkable experiences that make a difference!
+🚀 Coding, for me, is a craft—an ever-evolving process of learning and improvement. My transition from architecture to software development has endowed me with a unique perspective on crafting user-centered applications. I draw inspiration from my architectural foundation to seamlessly blend style and function.
 
-#### Let's connect! 🤝
+🪴 Outside the digital realm, you'll find me climbing rocks or tending to plants. Let's connect, collaborate, and build remarkable experiences together!
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonalberto/)
-   <br>
-   [![Gmail Badge](https://img.shields.io/badge/alberto.jason@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberto.jason@gmail.com) <br>
+🌱 Leveraging my interdisciplinary background, I bring creativity, efficiency, and a user-centric approach to every project. 
 
-#### 💻 Technical Skills
-
+### My toolkit includes:
 <div align="left">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" />
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -32,12 +30,25 @@ Feel free to explore my GitHub profile and witness my journey of growth as I emb
    <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
 </div>  
 
-#### 💻 Exploring
+### Exploring:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </div>  
+
 <br>
+
+## Let's connect! 🤝
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonalberto/)
+<br>
+[![Gmail Badge](https://img.shields.io/badge/jason.alberto.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason.alberto.dev@gmail.com) <br>
+[![Portfolio: jasonalberto.com](https://img.shields.io/badge/my_portfolio_at_jasonalberto.com-005571?style=for-the-badge&logoColor=white)](https://jasonalberto.com/) 
+<br>
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalbe0076&layout=compact" />
 
 <!--
