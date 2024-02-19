@@ -2,7 +2,7 @@
 
 🏗️ From architecture to code, I've always had a passion for creating things that make a difference. My journey began with bricks and mortar, but my pursuit of innovation led me to the world of software development.
 
-💻 Currently specializing in Front End Engineering. My coding journey is documented right here on GitHub, where you can explore the projects that showcase my growth and skills.
+💻 Fullstack Software Developer. My coding journey is documented right here on GitHub, where you can explore the projects that showcase my growth and skills.
 
 🚀 Coding, for me, is a craft—an ever-evolving process of learning and improvement. My transition from architecture to software development has endowed me with a unique perspective on crafting user-centered applications. I draw inspiration from my architectural foundation to seamlessly blend style and function.
 
@@ -28,14 +28,16 @@
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
+   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </div>  
 
 ### Exploring:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </div>  
 
 <br>
